@@ -1,6 +1,6 @@
 # Portfolio Page V2
 
-Hosted on [GitHub Pages](https://viggostrom.github.io/Portfolio-Page-V2/).
+Hosted on [GitHub Pages](https://VenaStrom.github.io/Portfolio-Page-V2/).
 
 ![Screenshot](screenshots/landing-page.png)
 
